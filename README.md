@@ -6,5 +6,5 @@ Day 2: Read about efficient graphs in Data Science here http://bit.ly/2N9f1MH
 
 Day 3: Read about R Package Development http://stat545.com/packages00_index.html
 
-Day 4: Read Chapter 3 of Mastering Software Development https://bookdown.org/rdpeng/RProgDA/
+Day 4: Read Chapter 3 of Mastering Software Development https://bookdown.org/rdpeng/RProgDA/ and coding a little about Dimensionality Reduction with Cruzipaina dataset. 
 
