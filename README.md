@@ -8,3 +8,4 @@ Day 3: Read about R Package Development http://stat545.com/packages00_index.html
 
 Day 4: Read Chapter 3 of Mastering Software Development https://bookdown.org/rdpeng/RProgDA/ and coding a little about Dimensionality Reduction with Cruzipaina dataset. 
 
+Day 5: Lecture on Deep Reinforcement Learning CS 294 Berkeley Lectures 
