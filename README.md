@@ -12,9 +12,9 @@ Day 5: Watching Lecture on Deep Reinforcement Learning CS 294 Berkeley Link on Y
 
 Day 6: Reading about tSNE and implementation in Python http://bit.ly/2A9mfNa and http://bit.ly/2A9Xe4o 
 
-Day 7: #Move37 Course School of AI http://bit.ly/2x4kqhY
+Day 7: #Move37 Course School of AI http://bit.ly/2x4kqhY 
 
-
+Day 8: Reading and coding about Data Wrangling in R. 
 
 
 
