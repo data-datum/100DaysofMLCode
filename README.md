@@ -10,4 +10,11 @@ Day 4: Read Chapter 3 of Mastering Software Development https://bookdown.org/rdp
 
 Day 5: Watching Lecture on Deep Reinforcement Learning CS 294 Berkeley Link on Youtube http://bit.ly/2zUYA3c and link on the slides of the video http://bit.ly/2zTfTl9
 
+Day 6: Reading about tSNE and implementation in Python http://bit.ly/2A9mfNa and http://bit.ly/2A9Xe4o 
+
+Day 7: #Move37 Course School of AI http://bit.ly/2x4kqhY
+
+
+
+
 
