@@ -16,5 +16,6 @@ Day 7: #Move37 Course School of AI http://bit.ly/2x4kqhY
 
 Day 8: Reading and coding about Data Wrangling in R. 
 
+Day 9: Optimization of trees with rpart with R. Resources: http://bit.ly/2QVHZ51 and here: http://bit.ly/2QSYEGl
 
 
