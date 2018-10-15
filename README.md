@@ -18,4 +18,6 @@ Day 8: Reading and coding about Data Wrangling in R.
 
 Day 9: Optimization of trees with rpart with R. Resources: http://bit.ly/2QVHZ51 and here: http://bit.ly/2QSYEGl
 
+Day 10: Data wrangling with dplyr and data.table. Resources: http://bit.ly/2QSr7vS and http://bit.ly/2QQfLIy
+
 
